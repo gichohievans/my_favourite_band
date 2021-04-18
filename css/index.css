@@ -83,4 +83,10 @@ img {
 .album {
     display:inline-block;
     box-align :left;
+    
+}
+.u {
+    height: 200px;
+    overflow: auto;
+    border: 5px outset #dd1327;
 }
